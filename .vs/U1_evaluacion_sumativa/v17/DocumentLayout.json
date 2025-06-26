@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|c:\\users\\edgardo\\documents\\cft\\proyectos net\\u1_evaluacion_sumativa\\views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{001B73BA-6D2B-4703-B9D0-FA16E5B6D32B}|U1_evaluacion_sumativa.csproj|solutionrelative:views\\usuarios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -78,11 +82,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDYAAAAFAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-06-26T04:13:58.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -94,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -102,12 +119,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-26T03:16:23.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T03:16:23.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Ingresar.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Login\\Ingresar.cshtml",
               "RelativeDocumentMoniker": "Views\\Login\\Ingresar.cshtml",
@@ -119,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -127,12 +143,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T03:02:53.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T03:02:53.049Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UsuarioLogin.cs",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\UsuarioLogin.cs",
               "RelativeDocumentMoniker": "Models\\UsuarioLogin.cs",
@@ -144,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
@@ -152,12 +167,11 @@
               "RelativeToolTip": "Controllers\\UsuariosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:49:43.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T02:49:43.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
@@ -165,25 +179,24 @@
               "RelativeToolTip": "Controllers\\LoginController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAkwEAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T02:41:12.129Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T02:41:12.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Usuarios\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Usuarios\\Index.cshtml",
               "ToolTip": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Usuarios\\Index.cshtml",
               "RelativeToolTip": "Views\\Usuarios\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-06-19T04:58:46.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "ProyectosPorUsuario.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\ProyectosPorUsuario.cshtml",
               "RelativeDocumentMoniker": "Views\\Proyectoes\\ProyectosPorUsuario.cshtml",
@@ -195,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Proyectoes\\Index.cshtml",
@@ -207,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Proyectoes\\Edit.cshtml",
@@ -219,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Proyectoes\\Details.cshtml",
@@ -231,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Proyectoes\\Delete.cshtml",
@@ -243,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Views\\Proyectoes\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Proyectoes\\Create.cshtml",
@@ -255,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ProyectoesController.cs",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Controllers\\ProyectoesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProyectoesController.cs",
@@ -267,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Proyecto.cs",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\Proyecto.cs",
               "RelativeDocumentMoniker": "Models\\Proyecto.cs",
@@ -279,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "DbProyectoRedesContext.cs",
               "DocumentMoniker": "C:\\Users\\Edgardo\\Documents\\CFT\\Proyectos NET\\U1_evaluacion_sumativa\\Models\\DbProyectoRedesContext.cs",
               "RelativeDocumentMoniker": "Models\\DbProyectoRedesContext.cs",
